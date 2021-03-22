@@ -18,7 +18,7 @@ mysql> select * from T where ID=10；
 
 <div align="center"> <img src="https://static001.geekbang.org/resource/image/0d/d9/0d2070e8f84c4801adbfa03bda1f98d9.png"/> </div><br>
 
-## 二、日志系统：一条SQL更新语句是如何执行的？
+## 02｜日志系统：一条SQL更新语句是如何执行的？
 一条查询语句的执行过程一般是经过连接器、分析器、优化器、执行器等功能模块，最后到达存储引擎。（MYSQL8.0之后删除了查询缓存模块）
 
 那么，一条更新语句的执行流程又是怎样的呢？（MYSQL可以恢复到半个月内任意一秒的状态）

@@ -8,7 +8,7 @@
 
 
 * [参考链接]
-   * [<a href="https://mp.weixin.qq.com/s/QLnbpRNKd9TqPHDSsioKwg" target="_blank">MySQL的redo log 和binlog日志</a>]
+   * <a href="https://mp.weixin.qq.com/s/QLnbpRNKd9TqPHDSsioKwg" target="_blank">MySQL的redo log 和binlog日志</a>
 
 ## 01｜基础架构：一条SQL查询语句是如何执行的？
 

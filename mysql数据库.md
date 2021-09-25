@@ -7,6 +7,9 @@
 <!-- GFM-TOC -->
 
 
+* [参考链接]
+   * [MySQL的redo log 和binlog日志](https://mp.weixin.qq.com/s/QLnbpRNKd9TqPHDSsioKwg)
+
 ## 01｜基础架构：一条SQL查询语句是如何执行的？
 
 我们经常说，看一个事儿千万不要直接陷入细节里，你应该先鸟瞰其全貌，这样能够帮助你从高维度理解问题。
